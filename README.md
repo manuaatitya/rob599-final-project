@@ -8,9 +8,9 @@ The Wannabe Nerfs:
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/32318187?v=4" width="100px;" alt="Manu Aatitya"/><br /><sub><b>Manu Aatitya</b></sub></a><br/></td>
-      <td align="center"><a href="https://github.com/jfmengels"><img src="https://user-images.githubusercontent.com/32318187/233909968-af290f97-e3bc-45ca-9821-1c6d00116195.png" width="100px;" height="120px" alt="Rohit Bannerjee"/><br /><sub><b>Rohit Bannerjee</b></sub></a><br /></td>
-      <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/30981303?v=4" width="100px;" height="100px;" alt="Jake Bolam"/><br /><sub><b>Aravind Krishnakumar</b></sub></a><br />    
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/32318187?v=4" width="100px;" alt="Manu Aatitya"/><br /><sub><b>Manu Aatitya</b></sub><br/></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/32318187/233909968-af290f97-e3bc-45ca-9821-1c6d00116195.png" width="100px;" height="120px" alt="Rohit Bannerjee"/><br /><sub><b>Rohit Bannerjee</b></sub><br /></td>
+      <td align="center"><<img src="https://avatars.githubusercontent.com/u/30981303?v=4" width="100px;" height="100px;" alt="Jake Bolam"/><br /><sub><b>Aravind Krishnakumar</b></sub><br />    
       </td>
     </tr>
     </tfbody>
