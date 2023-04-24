@@ -1,15 +1,37 @@
 # rob599-final-project
 
-Some general rules for the repository (can be changed later)
+The Wannabe Nerfs:
 
-- Don't edit anything without pull requests in the master branch
-- Don't edit the NeRF supervision public repository
-- Create a new folder and do the all required changes there
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/32318187?v=4" width="100px;" alt="Manu Aatitya"/><br /><sub><b>Manu Aatitya</b></sub></a><br/></td>
+      <td align="center"><a href="https://github.com/jfmengels"><img src="https://user-images.githubusercontent.com/32318187/233909968-af290f97-e3bc-45ca-9821-1c6d00116195.png" width="100px;" height="120px" alt="Rohit Bannerjee"/><br /><sub><b>Rohit Bannerjee</b></sub></a><br /></td>
+      <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/30981303?v=4" width="100px;" height="100px;" alt="Jake Bolam"/><br /><sub><b>Aravind Krishnakumar</b></sub></a><br />    
+      </td>
+    </tr>
+    </tfbody>
+</table>
 
-Tasks that I can think of for the project
+## Reproduction of the NeRF Supervision Code:
+
+- Have successfully reproduced the code.
+- The results from the reproduction are as follows: 
 
 
-- [ ] Reproduce the results
+- The pytorch dense correspondence docker image has been created from scratch for better reproduceability with all the required dependencies, since a docker image was not provided
+    - [Docker Hub Link](https://hub.docker.com/r/manuaatitya/pytorch-dense-correspondence)
+
+
+### New dataset tried:
+
+- Tried on a custom shoe dataset 
+
+
+<!-- - [ ] Reproduce the results
     - [ ] Figure out if the dataset is sufficient
     - [ ] If dataset is not sufficient figure out next steps
     
@@ -27,4 +49,4 @@ branches
     
     - dev/rohit
     
-    - dev/aravind
+    - dev/aravind -->
