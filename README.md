@@ -25,6 +25,9 @@ The Wannabe Nerfs:
       
 
 - Have successfully reproduced the code and the results from the reproduction are as follows: 
+    - Nerf Reconstruction from 200,000 iterations
+    
+    ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/32318187/233931923-3d0bea23-e241-41a7-b224-274b8cd102f9.gif)
 
 
 - The pytorch dense correspondence docker image has been created from scratch for better reproduceability with all the required dependencies, since a docker image was not provided
