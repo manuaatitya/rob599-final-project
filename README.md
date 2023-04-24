@@ -18,8 +18,13 @@ The Wannabe Nerfs:
 
 ## Reproduction of the NeRF Supervision Code:
 
-- Have successfully reproduced the code.
-- The results from the reproduction are as follows: 
+- Motivation for choosing the project:
+    - Inability to model shiny and reflective surfaces. Video Files using traditional techniques listed below
+      
+[![Hall Reconstruction](https://user-images.githubusercontent.com/32318187/233912559-2df9ab17-d3c2-472f-bcf9-2b24cddbcc5d.png)](https://www.youtube.com/watch?v=O9tI1pw5Peo) [![Fork Reconstruction](https://user-images.githubusercontent.com/32318187/233912295-21929dc1-7bc0-40f8-a0e4-b654111e2222.png)](https://www.youtube.com/watch?v=QryU3lckOUk)
+      
+
+- Have successfully reproduced the code and the results from the reproduction are as follows: 
 
 
 - The pytorch dense correspondence docker image has been created from scratch for better reproduceability with all the required dependencies, since a docker image was not provided
