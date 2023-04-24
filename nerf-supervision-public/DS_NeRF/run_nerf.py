@@ -265,6 +265,8 @@ def create_nerf(args):
     """Instantiate NeRF's MLP model.
     """
     embed_fn, input_ch = get_embedder(args.multires, args.i_embed)
+    print("Mulires argument is ", args.multires)
+    print("I embed value is ", args.i_embed)
 
     input_ch_views = 0
     embeddirs_fn = None
