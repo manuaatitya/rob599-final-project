@@ -28,6 +28,8 @@ The Wannabe Nerfs:
     - Nerf Reconstruction from 200,000 iterations
     
     ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/32318187/233931923-3d0bea23-e241-41a7-b224-274b8cd102f9.gif)
+    
+    ![depth-mamp](https://user-images.githubusercontent.com/32318187/233933598-c99f55b8-3278-4d4e-a8e9-14c144c2e515.gif)
 
 
 - The pytorch dense correspondence docker image has been created from scratch for better reproduceability with all the required dependencies, since a docker image was not provided
