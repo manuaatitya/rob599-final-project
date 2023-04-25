@@ -49,7 +49,8 @@ In this project, we present NeRF Supervision - a technique for learning dense ob
 
 ### New dataset tried:
 
-- Tried on a custom shoe dataset 
+- Tried on a custom shoe dataset
+- Changed the multires parameter, which gives the maximum length of the fourier expansion to embed the input spatial coordinates and viewing direction. 
 
 
 <!-- - [ ] Reproduce the results
