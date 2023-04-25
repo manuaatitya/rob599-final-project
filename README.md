@@ -43,7 +43,7 @@ In this project, we present NeRF Supervision - a technique for learning dense ob
     - [Docker Hub Link](https://hub.docker.com/r/manuaatitya/pytorch-dense-correspondence)
 
 - Extension results for custom shoe dataset
-    - [Link](https://github.com/manuaatitya/rob599-final-project/tree/master/results/Shoe)
+    - [Link]https://github.com/manuaatitya/rob599-final-project/blob/master/results/Shoe_spiral_200000_rgb.mp4)
 
 
 
