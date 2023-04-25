@@ -1,4 +1,6 @@
-# rob599-final-project
+# NeRF-Supervision: ROB 599 Final Project
+
+In this project, we present NeRF Supervision - a technique for learning dense object descriptors from Neural Radiance Fields presented by Lin Yen-chin along with industrial companies Google and Nvidia. It discusses about NeRFs as a 3D reconstruction tool to model shiny and reflective surfaces to generate better reconstruction and to train dense correspondences for manipulation of such objects. 
 
 The Wannabe Nerfs:
 
