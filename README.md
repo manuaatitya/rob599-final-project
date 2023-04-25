@@ -30,7 +30,7 @@ In this project, we present NeRF Supervision - a technique for learning dense ob
       
 
 - Have successfully reproduced the code and the results from the reproduction are as follows: 
-    - Log files from the reproduction in [logs/fork](https://github.com/manuaatitya/rob599-final-project/tree/master/nerf-supervision-public/logs/fork)
+    - Log files from the reproduction in [logs/fork](https://github.com/manuaatitya/rob599-final-project/tree/master/logs/fork)
 
     - Nerf Reconstruction from 200,000 iterations
     
@@ -48,11 +48,19 @@ In this project, we present NeRF Supervision - a technique for learning dense ob
 - Tried on a custom shoe dataset in [data/shoe](https://github.com/manuaatitya/rob599-final-project/tree/master/nerf-supervision-public/data/Shoe)
 - Extension results for custom shoe dataset [Link for video](https://github.com/manuaatitya/rob599-final-project/blob/master/results/Shoe_spiral_200000_rgb.mp4)
 
+  <img src="https://user-images.githubusercontent.com/32318187/234327099-94039dce-8e8f-42ee-87ab-303d1741504c.gif" width=25% height=1%>
+  
+  <img src="https://user-images.githubusercontent.com/32318187/234327622-a3c5ba8a-58db-4386-9cf0-ea30ff7adffb.gif" width=25% height=40%>
+
+
 - Changed the multires parameter, which gives the maximum length of the fourier expansion to embed the input spatial coordinates and viewing direction. (Changed multires from 10 to 50, no significant changes observed in the final output)
 
 ### Image Segmentation using SAM
 - We segmented the fork images using SAM to remove the background and only keeping the fork image as shown below. [dataset link](https://github.com/manuaatitya/rob599-final-project/tree/master/nerf-supervision-public/data/fork-seg)
 
+
+  <img src="https://user-images.githubusercontent.com/32318187/234325800-2e828d3c-3c9c-46ba-b8d7-808a1795fecc.gif" width=40% height=40%>
+    
 
 <!-- - [ ] Reproduce the results
     - [ ] Figure out if the dataset is sufficient
