@@ -46,8 +46,7 @@ In this project, we present NeRF Supervision - a technique for learning dense ob
 ### New dataset tried:
 
 - Tried on a custom shoe dataset in [data/shoe](https://github.com/manuaatitya/rob599-final-project/tree/master/nerf-supervision-public/data/Shoe)
-- Extension results for custom shoe dataset
-    - [Link](https://github.com/manuaatitya/rob599-final-project/blob/master/results/Shoe_spiral_200000_rgb.mp4)
+- Extension results for custom shoe dataset [Link for video](https://github.com/manuaatitya/rob599-final-project/blob/master/results/Shoe_spiral_200000_rgb.mp4)
 
 - Changed the multires parameter, which gives the maximum length of the fourier expansion to embed the input spatial coordinates and viewing direction. (Changed multires from 10 to 50, no significant changes observed in the final output)
 
