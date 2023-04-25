@@ -37,6 +37,10 @@ The Wannabe Nerfs:
 - The pytorch dense correspondence docker image has been created from scratch for better reproduceability with all the required dependencies, since a docker image was not provided
     - [Docker Hub Link](https://hub.docker.com/r/manuaatitya/pytorch-dense-correspondence)
 
+- Extension results for custom shoe dataset
+    - [Link](https://github.com/manuaatitya/rob599-final-project/tree/master/results/Shoe)
+
+
 
 ### New dataset tried:
 
